@@ -1,22 +1,16 @@
-<h2 align="left">Hi 👋 My name is Decryptable</h2>
-
-###
+<h2 align="center">Hi 👋 My name is Decryptable</span></h2>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=decryptable&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=decryptable&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="170" alt="stats graph"  />
 
 <img src="https://nirzak-streak-stats.vercel.app?user=decryptable&theme=material-palenight&hide_border=true&border_radius=5&card_width=500" alt="streaks graph" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decryptable&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=material-palenight&hide_border=true" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decryptable&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=material-palenight&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -56,12 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" height="30" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" alt="vuejs logo"  />
-</div>
 
-###
+  
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/decryptable/decryptable/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
