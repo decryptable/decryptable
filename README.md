@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Decryptable and I'm an enthusiast for ethical hacking.</h2>
+<h2 align="left">Hi 👋 My name is Decryptable</h2>
 
 ###
 
