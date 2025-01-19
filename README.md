@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=decryptable&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="170" alt="stats graph"  />
 
-<img src="https://nirzak-streak-stats.vercel.app?user=decryptable&theme=material-palenight&hide_border=true&border_radius=5&card_width=500" alt="streaks graph" height="170"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decryptable&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=material-palenight&hide_border=true" height="170" alt="languages graph"  />
 </div>
