@@ -1,58 +1,18 @@
-<h2 align="center">Hi 👋 My name is Decryptable</span></h2>
+# Hey there, I'm Decryptable ^~^
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decryptable&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="170" alt="stats graph"  />
+I'm a passionate programmer, and I've been coding for five years now. I love what I do, and it shows. I absolutely love building cool stuff and tinkering with AI to supercharge my daily coding adventures :D
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decryptable&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=material-palenight&hide_border=true" height="170" alt="languages graph"  />
-</div>
+## About Me
+- Full-stack dev with a knack for clean code  
+- 5 years slinging code and loving it  
+- AI enthusiast, using it to level up my projects  
+- Reach me: decryptable1338@gmail.com 
 
-###
+## Languages I Speak
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-333333?style=plastic&logo=rust) ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=java) ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python) ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" alt="vuejs logo"  />
+## Frameworks I Vibe With
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=plastic&logo=next.js) ![Flask](https://img.shields.io/badge/-Flask-333333?style=plastic&logo=flask) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel)
 
-  
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/decryptable/decryptable/output/snake.svg" alt="Snake animation" />
-</div>
+## Connect
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=plastic&logo=telegram)](https://t.me/nolan1337) [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=plastic&logo=gmail)](mailto:decryptable1338@gmail.com) [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=plastic&logo=x)](https://x.com/decryptable1337)
